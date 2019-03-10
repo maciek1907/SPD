@@ -1,7 +1,11 @@
-Co zosta³o zrealizowane:
+Co zostaÅ‚o zrealizowane:
 
-1. Przegl¹d zupe³ny - wczytuje dane z pliku inputData.txt, wyœwietla harmonogramy i czas wykonania zadañ dla ka¿dej permutacji. Zalecane jest wprowadzanie danych nie wiêkszych ni¿ 3 maszyny i 6 zadañ, gdy¿ program mo¿e wykonywaæ siê w niezadowalaj¹co d³ugim czasie.
-2. Mo¿liwe jest równie¿ stworzenie w³asnego pliku tekstowego z danymi. Format taki jak w ta000.
-3. Generator liczb losowych - dla trzech maszyn mo¿liwe jest wygenerowanie dowolnej liczby zadañ (plik inputRandom.txt).
-4. Algorytm Johnsona dla wariantu 3 maszynowego. Czyta dane z pliku podanego przez u¿ytkownika (np. inputRandom.txt).
-5. Sprawdzanie poprawnoœci poprzez generacjê danych losowych np. o 100 zadaniach. Testowaæ jedynie algorytmem Johnsona. Wprowadzanie danych, gdzie jest 100 zadañ, do przegl¹du zupe³nego jest wysoce niezalecane.
+1. PrzeglÄ…d zupeÅ‚ny - wczytuje dane z pliku inputData.txt, wyÅ›wietla harmonogramy i czas wykonania zadaÅ„ dla kaÅ¼dej permutacji. Zalecane jest wprowadzanie danych nie wiÄ™kszych niÅ¼ 3 maszyny i 6 zadaÅ„, gdyÅ¼ program moÅ¼e wykonywaÄ‡ siÄ™ w niezadowalajÄ…co dÅ‚ugim czasie.
+2. MoÅ¼liwe jest rÃ³wnieÅ¼ stworzenie wÅ‚asnego pliku tekstowego z danymi. Format taki jak w ta000.
+3. Generator liczb losowych - dla trzech maszyn moÅ¼liwe jest wygenerowanie dowolnej liczby zadaÅ„ (plik inputRandom.txt).
+4. Algorytm Johnsona dla wariantu 3 maszynowego. Czyta dane z pliku podanego przez uÅ¼ytkownika (np. inputRandom.txt).
+5. Sprawdzanie poprawnoÅ›ci poprzez generacjÄ™ danych losowych np. o 100 zadaniach. TestowaÄ‡ jedynie algorytmem Johnsona. Wprowadzanie danych, gdzie jest 100 zadaÅ„, do przeglÄ…du zupeÅ‚nego jest wysoce niezalecane.
+
+Update:
+
+10.03.2019, 19:43 - Poprawiony algorytym Johnsona
