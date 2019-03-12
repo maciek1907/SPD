@@ -9,3 +9,5 @@ Co zostało zrealizowane:
 Update:
 
 10.03.2019, 19:43 - Poprawiony algorytym Johnsona
+
+Ocena: 4,25
